@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kouki-yoshida1202)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
   <a href="https://github.com/kouki-yoshida1202/kouki-yoshida1202/">
