@@ -3,7 +3,7 @@
   <a href="https://github.com/kouki-yoshida1202/kouki-yoshida1202/">
     <img src="https://komarev.com/ghpvc/?username=kouki-yoshida1202" alt="kouki-yoshida1202" />
   </a>
-  <a href="http://twitter.com/kouki-yoshida1202">
+  <a href="http://twitter.com/_kouki1202">
     <img height="20" src="https://img.shields.io/twitter/follow/kouki-yoshida1202?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/kouki-yoshida1202">
