@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kouki-yoshida1202&count_private=true&show_icons=true" />
-</a>
+
 
 <p align="left"> 
   <a href="https://github.com/kouki-yoshida1202/kouki-yoshida1202/">
