@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slime-hatena&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&hide_border=true&hide_title=true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kouki-yoshida1202&count_private=true&show_icons=true" />
+</a>
 
 <p align="left"> 
   <a href="https://github.com/kouki-yoshida1202/kouki-yoshida1202/">
