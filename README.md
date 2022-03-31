@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouki-yoshida1202&count_private=true)
+
+
 <p align="left"> 
   <a href="https://github.com/kouki-yoshida1202/kouki-yoshida1202/">
     <img src="https://komarev.com/ghpvc/?username=kouki-yoshida1202" alt="kouki-yoshida1202" />
