@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouki-yoshida1202&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouki-yoshida1202&hide_title=true)
 
 
 <p align="left"> 
